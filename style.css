@@ -3,4 +3,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    background-image: url("https://likesafar.com/wp-content/uploads/2017/05/46-466146_world-travel-wallpaper-1495-945-travel-desktop-backgrounds.jpg");
+    background-size: cover;
+    overflow: hidden;
 }
