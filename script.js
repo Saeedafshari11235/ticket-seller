@@ -4,3 +4,7 @@ let countries={
     US:["NewYork","Callifornia","Georgia","Texas","Arizona"],
     Japan:["Tokyo","Osaka","Chiba","Hokaido","Hiroshima"]
 }
+let origin = document.querySelector("#orgn-cntr")
+origin.addEventListener("change",function(){
+    
+})
