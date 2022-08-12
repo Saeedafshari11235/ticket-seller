@@ -26,7 +26,7 @@ form{
     flex-direction: column;
     padding: 2rem 1.5rem;
 }
-input{
-    width: 90%;
-    height: 2em;
+input,select{
+    height: 2.5em;
+    margin-top: 1rem;
 }
